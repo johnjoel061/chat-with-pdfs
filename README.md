@@ -1,15 +1,7 @@
-Here's a complete and professional `README.md` file for your **MultiPDF Chat App**:
-
----
-
-````markdown
 # 📚 MultiPDF Chat App
 
-Interact with multiple PDF documents using natural language queries. This application enables you to ask questions about the contents of uploaded PDF files, and it returns accurate responses by leveraging a powerful language model from OpenAI.
-
-> 📺 **Tutorial available on YouTube** (link can be added here)
-
----
+Interact with multiple PDF documents using natural language queries. This application enables you to ask questions about the contents of uploaded PDF files, 
+and it returns accurate responses by leveraging a powerful language model from OpenAI.
 
 ## 🚀 Features
 
@@ -59,8 +51,6 @@ Create a `.env` file in the root directory and add your API key:
 ```
 OPENAI_API_KEY=your_secret_api_key
 ```
-
----
 
 ## 💡 Usage
 
